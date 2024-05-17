@@ -7,4 +7,6 @@ KMPtable <br>
 Usage: java KMPtable \<phrase\> \> \<output-filename>
 
 KMPsearch <br>
-Usage: java KMPsearch \<kmptable-file\> \<file-to-search\>
+Usage: java KMPsearch \<kmptable-file\> \<file-to-search\><br>
+<br>
+More info on [Knuth Morris Pratt algorithm](https://en.wikipedia.org/wiki/Knuth–Morris–Pratt_algorithm).
